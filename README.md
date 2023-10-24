@@ -1,5 +1,5 @@
 # Kopernikus_Rust_C-CodeChallenge
-coding challenge
+coding challenge completed.
 Kopernikus Rust FFI Code Challenge Documentation
 
 Table of Contents
