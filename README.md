@@ -19,7 +19,7 @@ Table of Contents
 5.	Usage
 •	Running the Program
 
-
+######################################################################################################################################################################################################################################################
 1. Introduction
 This documentation provides an overview of the Kopernikus Rust FFI code challenge, which involves interacting with C code from a Rust project. The challenge consists of several tasks and bonus challenges to test your Rust skills.
 2. Getting Started
