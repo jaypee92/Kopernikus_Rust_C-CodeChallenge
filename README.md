@@ -1,6 +1,7 @@
 # Kopernikus_Rust_C-CodeChallenge
 coding challenge
 Kopernikus Rust FFI Code Challenge Documentation
+
 Table of Contents
 1.	Introduction
 2.	Getting Started
@@ -17,6 +18,8 @@ Table of Contents
 •	Bonus Challenge 2: Thread Interaction
 5.	Usage
 •	Running the Program
+
+
 1. Introduction
 This documentation provides an overview of the Kopernikus Rust FFI code challenge, which involves interacting with C code from a Rust project. The challenge consists of several tasks and bonus challenges to test your Rust skills.
 2. Getting Started
