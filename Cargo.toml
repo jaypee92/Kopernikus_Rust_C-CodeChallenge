@@ -6,6 +6,7 @@ edition = "2021"
 publish = false
 [dependencies]
 libloading = "0.6"
+my_shared_library = "0.1"
 
 [[bin]]  # This section defines a binary target.
 name = "kopernikus-challenge"
