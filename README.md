@@ -34,7 +34,9 @@ $ git clone https://github.com/jaypee92/Kopernikus_Rust_C-CodeChallenge.git
 2.	Build the C shared library.
 $ gcc -shared -fPIC kpns.c -o libkpns.so 
 3.	Update your Cargo.toml to include the required dependencies, as mentioned in the challenge description.
-4.	Build and run the Rust project using the following command.
+4. Update the LD_LIBRARY_PATH
+$ export LD_LIBRARY_PATH=/path/to/libkpns/so/file:$LD_LIBRARY_PATH
+5.	Build and run the Rust project using the following command.
 $ cargo run 
 # 3. Project Structure
 •	Cargo.toml: Rust project configuration file.
